@@ -1,4 +1,4 @@
-# landing
+# Landing
 Entrega final del curso "Introducción al desarrollo web con HTML5 y CSS3" realizado en el bootcamp de LeWagon en el año 2020.
 Para realizar la landing me basé en el trabajo de mi papá.
 
